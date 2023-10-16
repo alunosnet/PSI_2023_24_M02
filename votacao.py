@@ -11,7 +11,7 @@ total = v1+v2+v3
 pv1 = v1/total * 100
 pv2 = v2/total * 100
 pv3 = v3/total * 100
-print(pv1,pv2,pv3)
+print("Candidato 1: %.2f"%pv1,"Candidato 2: %.2f"%pv2,"Candidato 3: %.2f"%pv3)
 
 #maioria absoluta
 if pv1>50 or pv2>50 or pv3>50:
