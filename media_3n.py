@@ -1,1 +1,0 @@
-#média de n números
